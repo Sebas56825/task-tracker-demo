@@ -2,7 +2,7 @@
 
 A live demo of a team task tracker I built: one HTML file, no server, no accounts.
 
-**Try it:** `https://<your-user>.github.io/<this-repo>/`
+**Try it:** `https://sebas56825.github.io/task-tracker-demo/`
 
 ## What you can try
 - **Dashboard, Timeline, Calendar and Tasks** views, with sub-tasks, priorities, statuses and effort in hours.
